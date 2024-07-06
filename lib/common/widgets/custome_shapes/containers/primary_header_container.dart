@@ -16,7 +16,7 @@ class PrimaryHeaderContainer extends StatelessWidget {
   Widget build(BuildContext context) {
     return CurvedEdgeWidget(
       child: SizedBox(
-        height: THelperFunctions.screenHeight() * 0.45,
+        height: THelperFunctions.screenHeight() * 0.5,
         child: Container(
           color: TColors.primary,
           child: Stack(

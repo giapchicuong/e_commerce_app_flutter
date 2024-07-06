@@ -1,3 +1,5 @@
+// ignore_for_file: unused_element, unrelated_type_equality_checks
+
 import 'dart:async';
 import 'package:get/get.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
